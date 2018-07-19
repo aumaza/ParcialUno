@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1531940367 source:/home/augusto/Proyectos/ParcialUno/borrarPropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531946263 /home/augusto/Proyectos/ParcialUno/funciones.h
+
+1531940425 source:/home/augusto/Proyectos/ParcialUno/buscaId.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531956438 source:/home/augusto/Proyectos/ParcialUno/buscaIdLibre.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1531956366 source:/home/augusto/Proyectos/ParcialUno/cargaPropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1531940578 source:/home/augusto/Proyectos/ParcialUno/harcodeoEgreso.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1531940658 source:/home/augusto/Proyectos/ParcialUno/harcodeoIngreso.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1531940700 source:/home/augusto/Proyectos/ParcialUno/harcodeoMarcas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1531940746 source:/home/augusto/Proyectos/ParcialUno/harcodeoPropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1531940786 source:/home/augusto/Proyectos/ParcialUno/initReg.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531941621 source:/home/augusto/Proyectos/ParcialUno/listarEgreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531948153 source:/home/augusto/Proyectos/ParcialUno/listarIngreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531941668 source:/home/augusto/Proyectos/ParcialUno/listarMarca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531946713 source:/home/augusto/Proyectos/ParcialUno/listarPropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531940308 source:/home/augusto/Proyectos/ParcialUno/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531956922 source:/home/augusto/Proyectos/ParcialUno/menuGeneral.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531942007 source:/home/augusto/Proyectos/ParcialUno/modificarPropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531941104 source:/home/augusto/Proyectos/ParcialUno/propietarioMarca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531941141 source:/home/augusto/Proyectos/ParcialUno/recaudacionMarca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531941177 source:/home/augusto/Proyectos/ParcialUno/recaudacionTotal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531941286 source:/home/augusto/Proyectos/ParcialUno/listarUnPropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531942187 source:/home/augusto/Proyectos/ParcialUno/horaEstadia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1531942571 source:/home/augusto/Proyectos/ParcialUno/pideDato.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1531942642 source:/home/augusto/Proyectos/ParcialUno/respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1531948711 source:/home/augusto/Proyectos/ParcialUno/bajaPorEgreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531956424 source:/home/augusto/Proyectos/ParcialUno/buscaIdLibreEgreso.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1531946588 source:/home/augusto/Proyectos/ParcialUno/cargaEgreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531956435 source:/home/augusto/Proyectos/ParcialUno/buscaIdLibreIngreso.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1531946264 source:/home/augusto/Proyectos/ParcialUno/cargaAuto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531946522 source:/home/augusto/Proyectos/ParcialUno/cargaIngreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
