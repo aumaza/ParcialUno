@@ -11,6 +11,7 @@
 
 int modificarPropietario(Propietarios prop[],int cant)
 {
+  system("cls");
   //int i;
   int index;
   int ok;
@@ -91,6 +92,7 @@ int modificarPropietario(Propietarios prop[],int cant)
         printf("Usuario no encontrado!!!");
     }
     //getchar();
-    system("clear");
+    //system("clear");
+    system("cls");
     return 0;
 }

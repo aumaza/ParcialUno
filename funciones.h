@@ -64,6 +64,8 @@ void cargaEgresos (Egresos egr[], int cant);
 void cargaAuto (Marca marc[]);
 void cargaIngreso (Ingresos ing[], int cantidad);
 int  buscaIdLibreIng(Ingresos ing[],int cantidad);
+int initRegIngreso(Ingresos ing[],int cant);
+int initRegEgreso(Egresos egr[],int cant);
 
 
 #endif // FUNCIONES_H_INCLUDED

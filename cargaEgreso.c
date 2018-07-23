@@ -8,22 +8,25 @@
 
 void cargaEgresos (Egresos egr[], int cant)
 {
-system("clear");
+//system("clear");
+system("cls");
 
 int i;
-i=buscaIdLibreEgr(egr,TAMANIO);
+
 char resp='s';
 
 
 do
 {
+i=buscaIdLibreEgr(egr,TAMANIO);
+egr[i].est=1;
 
 printf("\nID: ");
 scanf("%d", &egr[i].id);
 getchar();
 
 printf("\nId Marca: ");
-scanf("%d", &egr[i].id);
+scanf("%d", &egr[i].marca);
 getchar();
 
 fflush(stdin);
@@ -31,16 +34,16 @@ fflush(stdin);
 printf("\nIngrese el Importe: ");
 fflush(stdin);
 scanf("%f", &egr[i].importe);
+getchar();
 
 
-printf("\nDesea Continuar?: ");
+printf("\nDesea Continuar? (s/n): ");
 scanf("%c", &resp);
 getchar();
 
-}while(resp!='n');
 
+}while(resp !='n');
 
-
-getchar();
-system("clear");
+//system("clear");
+system("cls");
 }

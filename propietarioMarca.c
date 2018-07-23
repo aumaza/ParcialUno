@@ -9,7 +9,7 @@
 
 void propMarca (Ingresos ing[], int cant, Propietarios prop[], int canti)
 {
-
+system("cls");
 int i;
 int j;
 Ingresos auxiliar;
@@ -60,6 +60,7 @@ for(i=0;i<cant;i++)
 }
 
 getchar();
-system("clear");
+//system("clear");
+system("cls");
 
 }

@@ -9,31 +9,32 @@
 void cargarPropietario (Propietarios prop[], int cant)
 
 {
-  system("clear");
+  //system("clear");
+  system("cls");
 
   int i=0;
   char resp='s';
-  int index=0;
 
   do
   {
-    prop[index].id = buscaIdLibre(prop,TAM);
+    i = buscaIdLibre(prop,TAM);
+    prop[i].est=1;
 
     printf("\nIngrese el ID: ");
     scanf("%d", &prop[i].id);
     getchar();
 
 
-    printf("\nIngrese el Nombre: ");
+    printf("Ingrese el Nombre: ");
     fflush(stdin);
     fgets(prop[i].nombre, 20, stdin);
 
-    printf("\nIngrese Tarjeta: ");
+    printf("Ingrese Tarjeta: ");
     fflush(stdin);
     fgets(prop[i].tarjeta, 20, stdin);
 
 
-    printf("\nIngrese Direccion: ");
+    printf("Ingrese Direccion: ");
     fflush(stdin);
     fgets(prop[i].direccion, 20, stdin);
 
@@ -41,8 +42,10 @@ void cargarPropietario (Propietarios prop[], int cant)
     printf("\nDesea continuar? (s/n): ");
     scanf("%c", &resp);
     getchar();
+
   }while(resp!='n');
 
 
-  system("clear");
+  //system("clear");
+  system("cls");
 }

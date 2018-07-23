@@ -3,9 +3,9 @@
 #include <string.h>
 #include "funciones.h"
 
-#define TAM 4
-#define ON 0
-#define OFF 1
+//#define TAM 4
+//#define ON 0
+//#define OFF 1
 
 void borrarPropietario(Propietarios prop[],int cant)
 {
@@ -18,7 +18,7 @@ int index;
 
    if(index !=-1)
     {
-        prop[index].est=ON;
+        prop[index].est=0;
 	printf("\nNombre Y Apellido: %s", prop[index].nombre);
 	printf("\n===============================\n");
         printf("\nEL REGISTRO HA SIDO ELIMINADO.-\n\n\n\n");

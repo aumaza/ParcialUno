@@ -8,7 +8,8 @@
 void recaudacionTotal (Egresos egr[], int cant)
 
 {
-system("clear");
+//system("clear");
+system("cls");
 
 int i;
 float acum=0;

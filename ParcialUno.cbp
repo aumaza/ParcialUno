@@ -31,7 +31,98 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="bajaPorEgreso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="borrarPropietario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="buscaId.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="buscaIdLibre.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="buscaIdLibreEgreso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="buscaIdLibreIngreso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cargaAuto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cargaEgreso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cargaIngreso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cargaPropietario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funciones.h" />
+		<Unit filename="harcodeoEgreso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="harcodeoIngreso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="harcodeoMarcas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="harcodeoPropietario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="horaEstadia.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="initReg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="initRegEgreso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="initRegIngreso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarEgreso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarIngreso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarMarca.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarPropietario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listarUnPropietario.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menuGeneral.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modificarPropietario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pideDato.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="propietarioMarca.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recaudacionMarca.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recaudacionTotal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="respuesta.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

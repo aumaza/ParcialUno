@@ -3,12 +3,13 @@
 #include <string.h>
 #include "funciones.h"
 
-#define TAM 4
-#define TAMANIO 10
+//#define TAM 4
+//#define TAMANIO 10
 
 void listarIngreso (Ingresos ing[], int cantidad)
 {
-    system("clear");
+    //system("clear");
+    system("cls");
 
     int i;
 
@@ -17,7 +18,7 @@ void listarIngreso (Ingresos ing[], int cantidad)
 
     for(i=0; i<cantidad; i++)
     {
-      if(ing[i].id>0 && ing[i].id <=cantidad)
+      if(ing[i].id>0 && ing[i].est==1)
       {
         printf("%d", ing[i].id);
         printf("%10d\t", ing[i].est);
@@ -28,5 +29,6 @@ void listarIngreso (Ingresos ing[], int cantidad)
       }
     }
     getchar();
-    system("clear");
+    //system("clear");
+    system("cls");
 }

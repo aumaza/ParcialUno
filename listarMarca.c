@@ -11,7 +11,8 @@
 
 void listarMarca (Marca marc[])
 {
-    system("clear");
+    //system("clear");
+    system("cls");
 
     int i;
 
@@ -27,5 +28,6 @@ void listarMarca (Marca marc[])
 
     }
     getchar();
-    system("clear");
+    //system("clear");
+    system("cls");
 }

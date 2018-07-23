@@ -4,8 +4,6 @@
 #include <string.h>
 #include "funciones.h"
 
-#define ON 0
-#define OFF 1
 #define ALPHA_ROMEO 1
 #define FERRARI 2
 #define AUDI 3

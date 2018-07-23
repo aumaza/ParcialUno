@@ -8,7 +8,8 @@
 int buscaId (Propietarios prop[], int cant)
 
 {
-system("clear");
+//system("clear");
+system("cls");
 int i=0;
 int dato;
 int indice=0;
@@ -49,7 +50,8 @@ printf("%10s\t", prop[indice].direccion);
 printf("\n==============================================================\n");
 }
     getchar();
-    system("clear");
+    //system("clear");
+    system("cls");
 
   return indice;
 

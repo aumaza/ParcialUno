@@ -10,7 +10,8 @@
 
 void listarUnPropietario (Propietarios prop[], int cant)
 {
-system("clear");
+//system("clear");
+system("cls");
     int i=0;
 
 
@@ -23,7 +24,8 @@ system("clear");
     printf("%10s\t", prop[i-1].direccion);
 
     getchar();
-    system("clear");
+    //system("clear");
+    system("cls");
 
 
 }

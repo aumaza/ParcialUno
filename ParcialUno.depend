@@ -178,3 +178,385 @@
 	<string.h>
 	"funciones.h"
 
+1531959650 source:/home/augusto/projects/ParcialUno-master/borrarPropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532216170 /home/augusto/projects/ParcialUno-master/funciones.h
+
+1531959650 source:/home/augusto/projects/ParcialUno-master/buscaId.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532214825 source:/home/augusto/projects/ParcialUno-master/buscaIdLibre.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1532217100 source:/home/augusto/projects/ParcialUno-master/buscaIdLibreEgreso.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1532217097 source:/home/augusto/projects/ParcialUno-master/buscaIdLibreIngreso.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1531959650 source:/home/augusto/projects/ParcialUno-master/cargaAuto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532219217 source:/home/augusto/projects/ParcialUno-master/cargaEgreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532218520 source:/home/augusto/projects/ParcialUno-master/cargaIngreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532218531 source:/home/augusto/projects/ParcialUno-master/cargaPropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1532216069 source:/home/augusto/projects/ParcialUno-master/harcodeoEgreso.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1532184875 source:/home/augusto/projects/ParcialUno-master/harcodeoIngreso.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1532120864 source:/home/augusto/projects/ParcialUno-master/harcodeoMarcas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1532214470 source:/home/augusto/projects/ParcialUno-master/harcodeoPropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:/home/augusto/projects/ParcialUno-master/horaEstadia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1532214458 source:/home/augusto/projects/ParcialUno-master/initReg.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532219070 source:/home/augusto/projects/ParcialUno-master/listarEgreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532121339 source:/home/augusto/projects/ParcialUno-master/listarIngreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:/home/augusto/projects/ParcialUno-master/listarMarca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532120714 source:/home/augusto/projects/ParcialUno-master/listarPropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:/home/augusto/projects/ParcialUno-master/listarUnPropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:/home/augusto/projects/ParcialUno-master/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532216256 source:/home/augusto/projects/ParcialUno-master/menuGeneral.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:/home/augusto/projects/ParcialUno-master/modificarPropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:/home/augusto/projects/ParcialUno-master/pideDato.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:/home/augusto/projects/ParcialUno-master/propietarioMarca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:/home/augusto/projects/ParcialUno-master/recaudacionMarca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:/home/augusto/projects/ParcialUno-master/recaudacionTotal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:/home/augusto/projects/ParcialUno-master/respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1532219412 source:/home/augusto/projects/ParcialUno-master/bajaPorEgreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532216046 source:/home/augusto/projects/ParcialUno-master/initRegIngreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532216208 source:/home/augusto/projects/ParcialUno-master/initRegEgreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532219412 source:c:\test\parcialuno-master\bajaporegreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532216170 c:\test\parcialuno-master\funciones.h
+
+1532223360 source:c:\test\parcialuno-master\borrarpropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532345208 source:c:\test\parcialuno-master\buscaid.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532346020 source:c:\test\parcialuno-master\buscaidlibre.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1532217100 source:c:\test\parcialuno-master\buscaidlibreegreso.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1532217096 source:c:\test\parcialuno-master\buscaidlibreingreso.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1531959650 source:c:\test\parcialuno-master\cargaauto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532345260 source:c:\test\parcialuno-master\cargaegreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532345281 source:c:\test\parcialuno-master\cargaingreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532346112 source:c:\test\parcialuno-master\cargapropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1532216068 source:c:\test\parcialuno-master\harcodeoegreso.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1532184874 source:c:\test\parcialuno-master\harcodeoingreso.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1532120864 source:c:\test\parcialuno-master\harcodeomarcas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1532214470 source:c:\test\parcialuno-master\harcodeopropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:c:\test\parcialuno-master\horaestadia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funciones.h"
+
+1532214458 source:c:\test\parcialuno-master\initreg.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532216208 source:c:\test\parcialuno-master\initregegreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532216046 source:c:\test\parcialuno-master\initregingreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532345321 source:c:\test\parcialuno-master\listaregreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532345339 source:c:\test\parcialuno-master\listaringreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532345351 source:c:\test\parcialuno-master\listarmarca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532345363 source:c:\test\parcialuno-master\listarpropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532345387 source:c:\test\parcialuno-master\listarunpropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:c:\test\parcialuno-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532345785 source:c:\test\parcialuno-master\modificarpropietario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:c:\test\parcialuno-master\pidedato.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1532345538 source:c:\test\parcialuno-master\propietariomarca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532345448 source:c:\test\parcialuno-master\recaudacionmarca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1532345423 source:c:\test\parcialuno-master\recaudaciontotal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1531959650 source:c:\test\parcialuno-master\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1532346481 source:c:\test\parcialuno-master\menugeneral.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+

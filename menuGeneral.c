@@ -9,7 +9,8 @@
 int menuGeneral()
 
 {
- system("clear");
+ //system("clear");
+ system("cls");
 
 Propietarios prop[TAM];
 Ingresos ing[TAMANIO];
@@ -22,7 +23,9 @@ Marca marc[TAM];
 
 initRegProp(prop,TAM);
 harcodeo(prop);
+initRegIngreso(ing,TAM);
 harcodeoIngreso(ing);
+initRegEgreso(egr,TAM);
 harcodeoEgreso(egr);
 harcodeoMarcas(marc);
 
@@ -81,8 +84,8 @@ printf("\n===============================\n");
 
 switch(opc)
 {
-case 1: initRegProp(prop,TAM);
-	    cargarPropietario(prop, TAM); break;
+case 1: //initRegProp(prop,TAM);
+        cargarPropietario(prop, TAM); break;
 case 2: cargaIngreso(ing,TAMANIO); break;
 case 3: cargaEgresos(egr,TAMANIO); break;
 case 4: cargaAuto(marc); break;
@@ -106,5 +109,6 @@ printf("\n===============================\n");
 
 return 0;
 getchar();
-system("clear");
+//system("clear");
+system("cls");
 }

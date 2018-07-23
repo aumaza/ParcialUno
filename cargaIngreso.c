@@ -9,8 +9,17 @@
 void cargaIngreso (Ingresos ing[], int cantidad)
 
 {
+//system("clear");
+system("cls");
+
 int i;
+char resp='s';
+
+do
+{
+
 i=buscaIdLibreIng(ing, TAMANIO);
+ing[i].est=1;
 
 printf("\nIngrese Id: ");
 scanf("%d", &ing[i].id);
@@ -30,6 +39,12 @@ printf("Id del Propietario: ");
 scanf("%d",&ing[i].propietario);
 getchar();
 
+printf("\nDesea continuar? (s/n): ");
+scanf("%c", &resp);
 getchar();
-system("clear");
+
+}while(resp !='n');
+
+//system("clear");
+system("cls");
 }

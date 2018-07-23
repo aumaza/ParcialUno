@@ -12,8 +12,9 @@
 void recauPorMarca (Egresos egr[], int cant)
 
 {
+system("cls");
 
-int i;
+    int i;
     float importe[4]={0};
     float total=0;
 
@@ -55,5 +56,6 @@ printf("%5.2f %20.2f %20.2f %20.2f %20.2f", importe[0], importe[1], importe[2], 
 printf("\n==========================================================================================\n");
 
         getchar();
-        system("clear");
+        //system("clear");
+        system("cls");
 }

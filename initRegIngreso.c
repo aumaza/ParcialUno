@@ -7,16 +7,16 @@
 //#define TAM 4
 //#define TAMANIO 10
 
-int initRegProp(Propietarios prop[],int cant)
+int initRegIngreso(Ingresos ing[],int cant)
 {
    int i;
    int retorno=-1;
-   if(cant > 0 && prop != NULL)
+   if(cant > 0 && ing != NULL)
    {
        for(i=0;i<cant;i++)
        {
            retorno=0;
-           prop[i].est=0;
+           ing[i].est=0;
         }
    }
     return retorno;

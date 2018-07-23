@@ -10,14 +10,15 @@
 
 void listarPropietarios (Propietarios prop[], int cant)
 {
-system("clear");
+//system("clear");
+system("cls");
     int i;
 
     printf("\nID\tESTADO\t    NOMBRE\t    TARJETA\t    DIRECCION\n");
     printf("\n==============================================================\n");
     for(i=0; i<cant; i++)
     {
-        if(prop[i].est == 1 && prop[i].id > 0 && prop[i].id <=cant)
+        if(prop[i].est == 1)
         {
         printf("%d\t", prop[i].id);
         printf("%d\t", prop[i].est);
@@ -29,5 +30,6 @@ system("clear");
     }
 
     getchar();
-    system("clear");
+    //system("clear");
+    system("cls");
 }

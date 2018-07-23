@@ -9,7 +9,8 @@
 
 void listarEgreso (Egresos egr[], int cantidad)
 {
-   system("clear");
+   //system("clear");
+   system("cls");
    int i;
 
    printf("\nID\tMARCA\tIMPORTE");
@@ -17,7 +18,7 @@ void listarEgreso (Egresos egr[], int cantidad)
 
     for(i=0; i<cantidad; i++)
     {
-      if(egr[i].id>0 && egr[i].id<=cantidad)
+      if(egr[i].id>0 && egr[i].est==1)
       {
         printf("%d", egr[i].id);
         printf("%10d", egr[i].marca);
@@ -26,5 +27,6 @@ void listarEgreso (Egresos egr[], int cantidad)
       }
     }
     getchar();
-    system("clear");
+    //system("clear");
+    system("cls");
 }
